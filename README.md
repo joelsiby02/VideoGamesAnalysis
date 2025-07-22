@@ -49,6 +49,3 @@ I’ll be moving on to learn **Power BI**, and eventually building interactive d
 - Importance of combining **volume and value metrics** in analysis.
 
 ---
-
-## 📂 File Structure
-
